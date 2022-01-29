@@ -1,6 +1,6 @@
 ### Hi there, I'm Webmekanic 👋
 <!-- Social Media -->
- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/david-aniebo-85736820a/) [![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/webmekanic)  [![Freecodecamp Badge](https://img.shields.io/badge/Freecodecamp-informational?style=flat&logo=freecodecamp&logoColor=white&color=27273D)](https://www.freecodecamp.org/davidaniebo)   [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-informational?style=flat&logo=Whatsapp&logoColor=white&color=25D366)](https://www.linkedin.com/in/david-aniebo-85736820a/)
+ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/david-aniebo-85736820a/) [![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/webmekanic_)  [![Freecodecamp Badge](https://img.shields.io/badge/Freecodecamp-informational?style=flat&logo=freecodecamp&logoColor=white&color=27273D)](https://www.freecodecamp.org/davidaniebo)   [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-informational?style=flat&logo=Whatsapp&logoColor=white&color=25D366)](https://wa.link/5bi975)
 
 ### Glad to see you here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Webmekanic)
 
