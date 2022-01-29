@@ -25,24 +25,5 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Webmekanic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webmekanic&layout=compact)](https://github.com/webmekanic/github-readme-stats)
  
-
-<!--  
-<table>
-  <tr>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Webmekanic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/></td>
-    <td valign="top"> <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webmekanic&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td></td>
-  </tr>
-</table> -->
-
-
-
-
-
-
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Webmekanic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
-
-
-
-
-
