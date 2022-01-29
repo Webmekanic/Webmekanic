@@ -24,7 +24,6 @@ I am a software engineer, creative and passionate about web development. I make 
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=webmekanic)](https://github.com/webmekanic/github-readme-stats)
  
  
 
