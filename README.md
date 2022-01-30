@@ -10,7 +10,7 @@ I am a software engineer, creative and passionate about web development. I make 
 
 
 
-#### Talking about Personal Stuffs:
+#### Talking about Personal Stuffs: ⛓️
 - 👨🏻‍💻 I’m currently working on something cool.
 - 😄 Pronouns: He/Him, Webmekanic.
 - 🚀 I’m currently learning Data Structures and Algorithms on Freecodecamp.
@@ -27,7 +27,7 @@ I am a software engineer, creative and passionate about web development. I make 
 
 [![webmekanic's github activity graph](https://activity-graph.herokuapp.com/graph?username=webmekanic&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Activities 👨‍🔧
+## Analytics ⚙️
  <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=webmekanic&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" />  <img width="49.5%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webmekanic&layout=compact&title_color=5BCDEC&text_color=FFFEFE&hide=HTML&icon_color=4AB197&bg_color=0D1117" />
 
 
