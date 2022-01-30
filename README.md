@@ -1,4 +1,4 @@
-### Hi there, I'm Webmekanic 👋
+### Hi there, I'm Webmekanic  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
 <!-- Social Media -->
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/david-aniebo-85736820a/) [![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/webmekanic_)  [![Freecodecamp Badge](https://img.shields.io/badge/Freecodecamp-informational?style=flat&logo=freecodecamp&logoColor=white&color=27273D)](https://www.freecodecamp.org/davidaniebo)   [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-informational?style=flat&logo=Whatsapp&logoColor=white&color=25D366)](https://wa.link/5bi975)
 
@@ -16,16 +16,18 @@ I am a software engineer, creative and passionate about web development. I make 
 - 🚀 I’m currently learning Data Structures and Algorithms on Freecodecamp.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me:  [webmekanic@gmail.com](mailto:webmekanic@gmail.com).
-- 📝 Resume.
 
 <br clear="right"/>
 
- ##### 📊 This Week I Spent My Time On: 
- <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Webmekanic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webmekanic&layout=compact)](https://github.com/webmekanic/github-readme-stats)
+## Stats :chart_with_upwards_trend:
+
+
+[![webmekanic's github activity graph](https://activity-graph.herokuapp.com/graph?username=webmekanic&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Activities :dart:
+<img width="49.5%" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=webmekanic&theme=minimal" />  <img width="49.5%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webmekanic&langs_count=6&layout=compact&theme=minimal&hide=HTML&custom_title=Top%20Languages"/>
+
+
+
+
  
