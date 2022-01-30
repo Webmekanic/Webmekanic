@@ -6,7 +6,9 @@
 
 I am a software engineer, creative and passionate about web development. I make it my mission to translate complex and user-focused designs into pixel-perfect websites or applications that run blazing fast. I love creating technology to elevate and change people live.
 
-<img align="right" height="320em" src="https://i.ibb.co/Xxk0yYr/giphy.gif">  
+<img align="right" height="270em" src="https://i.ibb.co/Xxk0yYr/giphy.gif">  
+
+
 
 #### Talking about Personal Stuffs:  
 - 👨🏻‍💻 I’m currently working on something cool.
