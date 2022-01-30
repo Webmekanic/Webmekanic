@@ -10,21 +10,24 @@ I am a software engineer, creative and passionate about web development. I make 
 
 
 
-#### Talking about Personal Stuffs:  
+#### Talking about Personal Stuffs:
 - 👨🏻‍💻 I’m currently working on something cool.
 - 😄 Pronouns: He/Him, Webmekanic.
 - 🚀 I’m currently learning Data Structures and Algorithms on Freecodecamp.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me:  [webmekanic@gmail.com](mailto:webmekanic@gmail.com).
 
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-263826%20lines%20of%20code-blue)
+
 <br clear="right"/>
 
-## Stats :chart_with_upwards_trend:
+## Stats 📈
 
 
 [![webmekanic's github activity graph](https://activity-graph.herokuapp.com/graph?username=webmekanic&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Activities :dart:
+## Activities 👨‍🔧
 <img width="49.5%" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=webmekanic&theme=minimal" />  <img width="49.5%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webmekanic&langs_count=6&layout=compact&theme=minimal&hide=HTML&custom_title=Top%20Languages"/>
 
 
