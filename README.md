@@ -21,6 +21,8 @@ I am a software engineer, creative and passionate about web development. I make 
 <br clear="right"/>
 
  ##### 📊 This Week I Spent My Time On: 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Webmekanic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webmekanic&layout=compact)](https://github.com/webmekanic/github-readme-stats)
  
