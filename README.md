@@ -25,7 +25,7 @@ I am a software engineer, creative and passionate about web development. I make 
 ## Stats 📈
 
 
-[![webmekanic's github activity graph](https://activity-graph.herokuapp.com/graph?username=webmekanic&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![webmekanic's github activity graph](https://activity-graph.herokuapp.com/graph?username=webmekanic&theme=react-dark)](https://github.com/webmekanic/github-readme-activity-graph)
 
 <!-- ## Analytics ⚙️ -->
 <!--  <img align="center" width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=webmekanic&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" /> -->
