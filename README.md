@@ -1,5 +1,5 @@
 ![Webmekanic
-'s GitHub Banner](./images/profilebanner.png)
+'s GitHub Banner](./images/myBanner.png)
 
 <!-- Social Media -->
 
