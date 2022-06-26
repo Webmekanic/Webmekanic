@@ -1,4 +1,5 @@
-### Hi there, I'm Webmekanic <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
+![Webmekanic
+'s GitHub Banner](./images/profilebanner.png)
 
 <!-- Social Media -->
 
