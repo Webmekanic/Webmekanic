@@ -1,32 +1,29 @@
 ![Webmekanic
 's GitHub Banner](./images/myBanner.png)
 
-<!-- Social Media -->
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=164C78&vCenter=true&center=true&width=460&lines=I'm+David+Aniebo;Software+Engineer">
+<br>
+Hi there, 👋🏽&nbsp I'm a full stack software engineer based in Austin, TX. I'm currently learning and building with HTML, CSS, JavaScript & the MERN stack at 100Devs Agency. Feel free to stay awhile and browse through my latest projects if you'd like to see what I've been working on. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development! 
+</p>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/david-aniebo-85736820a/) [![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/webmekanic_) [![Freecodecamp Badge](https://img.shields.io/badge/Freecodecamp-informational?style=flat&logo=freecodecamp&logoColor=white&color=27273D)](https://www.freecodecamp.org/davidaniebo)
+<!-- SOCIALS -->
+  <p align="center">
+    <a href="https://twitter.com/webmekanic_"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter&logoColor=white" height=25></a>
+    <a href="https://www.codewars.com/users/Webmekanic"><img src="https://img.shields.io/badge/Codewars-164C78?style=plastic&logo=Codewars&logoColor=white" height=25></a>
+    <a href="mailto:aniebovictor001@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=plastic&logo=gmail&logoColor=white" height=25></a>
+    <a href="https://www.linkedin.com/in/david-aniebo/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin&logoColor=white" height=25></a>
+    <!-- <a href="https://dev.to/raeplusplus"><img src="https://img.shields.io/badge/Download_Resume-164C78?style=plastic&logo=googledrive&logoColor=white" height=25></a> -->
+  </p>
+  
+  
+  <!-- Stats -->
+  
 
-### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=Webmekanic)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webmekanic&hide_border=true&currStreakNum=164C78&ring=ffffff&background=12160F&sideLabels=ffffff&sideNums=ffffff&fire=ffffff&currStreakLabel=164C78&dates=164C78">
+</div>
+</br>
 
-I am a software engineer, creative and passionate about web development. I make it my mission to translate complex and user-focused designs into pixel-perfect websites or applications that run blazing fast. I love creating technology to elevate and change people live.
 
-<img align="right" height="270em" src="https://i.ibb.co/Xxk0yYr/giphy.gif">
 
-#### Talking about Personal Stuffs: ⛓️
-
-- 👨🏻‍💻 I’m currently working on something cool.
-- 😄 Pronouns: He/Him, Webmekanic.
-- 🚀 I’m currently learning Data Structures and Algorithms on Freecodecamp.
-- 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: [webmekanic@gmail.com](mailto:webmekanic@gmail.com).
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-263826%20lines%20of%20code-blue)
-
-<br clear="right"/>
-
-## Stats 📈
-
-[![webmekanic's github activity graph](https://activity-graph.herokuapp.com/graph?username=webmekanic&theme=react-dark)](https://github.com/webmekanic/github-readme-activity-graph)
-
-<!-- ## Analytics ⚙️ -->
-<!--  <img align="center" width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=webmekanic&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" /> -->
-<!--  <img width="49.5%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webmekanic&layout=compact&title_color=5BCDEC&text_color=FFFEFE&hide=HTML&icon_color=4AB197&bg_color=0D1117" />
