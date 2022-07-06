@@ -8,7 +8,7 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer based in Austin, TX. 
 </p>
 
 <!-- SOCIALS -->
-<h3 align="center">Contact Me</h3>
+<h1 align="center">Contact Me</h1>
   <p align="center">
     <a href="https://twitter.com/webmekanic_"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter&logoColor=white" height=25></a>
     <a href="https://www.codewars.com/users/Webmekanic"><img src="https://img.shields.io/badge/Codewars-164C78?style=plastic&logo=Codewars&logoColor=white" height=25></a>
@@ -17,10 +17,13 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer based in Austin, TX. 
   </p>
   
  <!-- Stats -->
+  <h1 align="center">Code Stats</h1>
 <div align="center">
- 
+ <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=webmekanic&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" />
 </div>
 </br>
+
+<h1 align="center">Technologies</h1>
 
 
 
