@@ -24,6 +24,24 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer based in Austin, TX. 
 </br>
 
 <h1 align="center">Technologies</h1>
+   <p align="center">
+      <img src="https://img.shields.io/badge/HTML5-164C78?style=plastic&logo=html5" height=25>
+      <img src="https://img.shields.io/badge/CSS3-164C78?style=plastic&logo=css3" height=25>
+      <img src="https://img.shields.io/badge/SaSS-164C78?style=plastic&logo=sass" height=25>
+      <img src="https://img.shields.io/badge/Bootstrap-164C78?style=plastic&logo=bootstrap" height=25>
+      <img src="https://img.shields.io/badge/JavaScript-164C78?style=plastic&logo=javascript" height=25>
+      <img src="https://img.shields.io/badge/Node.js-164C78?style=plastic&logo=nodedotjs" height=25>
+      <img src="https://img.shields.io/badge/React-164C78?style=plastic&logo=react" height=25>
+      <img src="https://img.shields.io/badge/Express.js-164C78?style=plastic&logo=express" height=25>
+      <img src="https://img.shields.io/badge/MongoDB-164C78?style=plastic&logo=mongodb" height=25>
+      <img src="https://img.shields.io/badge/Typescript-164C78?style=plastic&logo=typescript" height=25>
+      <img src="https://img.shields.io/badge/Figma-164C78?style=plastic&logo=figma" height=25>
+      <img src="https://img.shields.io/badge/Visual_Studio-164C78?style=plastic&logo=visual%20studio&logoColor=black" height=25>
+      <img src="https://img.shields.io/badge/GIT-164C78?style=plastic&logo=git" height=25>
+     <img src="https://img.shields.io/badge/Firebase-164C78?style=plastic&logo=firebase" height=25>
+     <img src="https://img.shields.io/badge/AWS-164C78?style=plastic&logo=amazon" height=25>
+     <img src="https://img.shields.io/badge/Webpack-164C78?style=plastic&logo=webpack" height=25>
+    </p>
 
 
 
