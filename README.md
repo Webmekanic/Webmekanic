@@ -87,24 +87,24 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">E-commerce Product Page</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
+        <a target="_blank" href="https://webmekanic.github.io/Ecommerce-Product-Page/">
           <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
-        <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+   <p align="center">   
+   <a href="https://github.com/Webmekanic/Ecommerce-Product-Page" target="_blank">
+     <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
   </a>
-  <a href="http://shawncharles.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+  <a href="https://webmekanic.github.io/Ecommerce-Product-Page/" target="blank">
+   <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
+  </a> 
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - A responsive E-commerce product page with lightbox gallery and Cart Functionality.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+        <h3 align="center">Developer Finder</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
           <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
@@ -112,14 +112,15 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+   <a href="https://github.com/Webmekanic/Ecommerce-Product-Page" target="_blank">
+     <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+  <a href="https://webmekanic.github.io/Ecommerce-Product-Page/" target="blank">
+   <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
+  </a> 
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML5, HTTP, REST, Vercel, ContextAPIs, Javascript, Tailwind, Daisy Ui </strong>
+            -  A platform that uses that uses GitHub API to fetch user data from the GitHub database and display a user's information including the number of public repositories, the number of forks, date joined, username, user bio, among others.</p>
     </td>
   </tr>
 </table>
