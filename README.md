@@ -34,15 +34,21 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. I'm currently learni
       <img src="https://img.shields.io/badge/React-164C78?style=plastic&logo=react" height=25>
       <img src="https://img.shields.io/badge/Express.js-164C78?style=plastic&logo=express&logoColor=000000" height=25>
       <img src="https://img.shields.io/badge/MongoDB-164C78?style=plastic&logo=mongodb" height=25>
+      <img src="https://img.shields.io/badge/Linear-164C78?style=plastic&logo=linear" height=25>
       <img src="https://img.shields.io/badge/Redux-164C78?style=plastic&logo=redux&logoColor=764ABC" height=25>
       <img src="https://img.shields.io/badge/Typescript-164C78?style=plastic&logo=typescript" height=25>
       <img src="https://img.shields.io/badge/Figma-164C78?style=plastic&logo=figma" height=25>
+      <img src="https://img.shields.io/badge/Json-164C78?style=plastic&logo=json" height=25>
       <img src="https://img.shields.io/badge/Visual_Studio-164C78?style=plastic&logo=visual%20studio&logoColor=007ACC" height=25>
       <img src="https://img.shields.io/badge/GIT-164C78?style=plastic&logo=git" height=25>
       <img src="https://img.shields.io/badge/Firebase-164C78?style=plastic&logo=firebase" height=25>
       <img src="https://img.shields.io/badge/AWS-164C78?style=plastic&logo=amazon" height=25>
       <img src="https://img.shields.io/badge/Webpack-164C78?style=plastic&logo=webpack" height=25>
+      <img src="https://img.shields.io/badge/Jira-164C78?style=plastic&logo=jiraSoftware" height=25>
     </p>
+    
+    
+    
 
 
 
