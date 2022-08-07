@@ -77,11 +77,11 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
   <a href="https://github.com/zurichat/zc_main" target="_blank">
      <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
   </a>
-  <a href="href="https://www.zuri.chat" target="_blank">
-     <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
-  </a>
+  <a href="https://www.zuri.chat" target="blank">
+   <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
+  </a> 
       </p>
-        <p><strong>Javascript, React, Redux, RestAPIs, NodeJs, WebRTC, </strong> - A platform that will power remote work in the Web3 future and make it feel as good as sitting across the desk from your friends. Remote work that still allows for those moments of serependity.</p>
+        <p><strong>Javascript, React, Redux, RestAPIs, NodeJs, WebRTC </strong> - A platform that will power remote work in the Web3 future and make it feel as good as sitting across the desk from your friends. Remote work that still allows for those moments of serependity.</p>
     </td>
   </tr>
   
