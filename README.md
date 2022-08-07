@@ -120,7 +120,7 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
   </a> 
       </p>
         <p><strong>HTML5, HTTP, REST, Vercel, ContextAPIs, Javascript, Tailwind, Daisy Ui </strong>
-            -  A platform that uses that uses GitHub API to fetch user data from the GitHub database and display a user's information including the number of public repositories, the number of forks, date joined, username, user bio, among others.</p>
+            -  A platform that uses that uses GitHub API to fetch user data from the GitHub database and display a user's information.</p>
     </td>
   </tr>
 </table>
