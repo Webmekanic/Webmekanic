@@ -46,7 +46,83 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
       <img src="https://img.shields.io/badge/Webpack-164C78?style=plastic&logo=webpack" height=25>
       <img src="https://img.shields.io/badge/Jira-164C78?style=plastic&logo=jiraSoftware" height=25>
     </p>
-    
+    <h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Surevoter</h3>
+        <br />
+        <a target="_blank" href="http://www.surevoter.com">
+            <img src="images/gif1.gif" width="100%" alt="Sure Voter"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://www.surevoter.com" target="_blank">
+   <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
+  </a>  
+      </p>
+        <p><strong>HTML, CSS3, Javascript, Typescript, Handlebars, React, Redux, Node.js, AWS, DynamoDB </strong> - A cloud based voting system to improve voter engagement, save time, create a better voter experience, and guarantee election integrity.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Zuri Chat</h3>
+        <br />
+      <a target="_blank" href="https://www.zuri.chat/">
+            <img src="images/gif2.gif" width="100%"  alt="Zuri"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/zurichat/zc_main" target="_blank">
+     <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
+  </a>
+  <a href="href="https://www.zuri.chat" target="_blank">
+     <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
+  </a>
+      </p>
+        <p><strong>Javascript, React, Redux, RestAPIs, NodeJs, WebRTC, </strong> - A platform that will power remote work in the Web3 future and make it feel as good as sitting across the desk from your friends. Remote work that still allows for those moments of serependity.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">ShawnCharles.com</h3>
+      <br />
+        <a target="_blank" href="https://shawncharles.com">
+          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://shawncharles.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Matching Cards</h3>
+        <br />
+        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://poke-matchcards.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+    </td>
+  </tr>
+</table>
     
     
 
