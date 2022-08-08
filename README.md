@@ -111,12 +111,9 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
         </a>
         <br />
          <p align="center">   
-   <a href="https://github.com/Webmekanic/Ecommerce-Product-Page" target="_blank">
+   <a href="https://github.com/Webmekanic/Developer-finder" target="_blank">
      <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
   </a>
-  <a href="https://webmekanic.github.io/Ecommerce-Product-Page/" target="blank">
-   <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
-  </a> 
       </p>
         <p><strong>HTML5, HTTP, REST, Vercel, ContextAPIs, Javascript, Tailwind, Daisy Ui </strong>
             -  A platform that uses that uses GitHub API to fetch user data from the GitHub database and display a user's information.</p>
