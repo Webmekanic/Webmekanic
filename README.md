@@ -106,18 +106,16 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
     <td width="50%" valign="top">
         <h3 align="center">Developer Finder</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+        <a target="_blank" href="https://github.com/Webmekanic/Developer-finder">
           <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
           
-   <a href="https://github.com/Webmekanic/Ecommerce-Product-Page" target="_blank">
+   <a href="https://github.com/Webmekanic/Developer-finder" target="_blank">
      <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
   </a>
-  <a href="https://webmekanic.github.io/Ecommerce-Product-Page/" target="blank">
-   <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
-  </a> 
+   
       </p>
         <p><strong>HTML5, HTTP, REST, Vercel, ContextAPIs, Javascript, Tailwind, Daisy Ui </strong>
             -  A platform that uses that uses GitHub API to fetch user data from the GitHub database and display a user's information.</p>
