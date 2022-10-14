@@ -54,7 +54,7 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
       <h3 align="center">Surevoter</h3>
         <br />
         <a target="_blank" href="http://www.surevoter.com">
-            <img src="images.gif" width="100%" alt="Sure Voter"/>
+            <img src="./images/surevoter.gif" width="100%" alt="Sure Voter"/>
         </a>
         <br />
         <p align="center">
@@ -69,7 +69,7 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
       <h3 align="center">Zuri Chat</h3>
         <br />
       <a target="_blank" href="https://www.zuri.chat/">
-            <img src="images/gif2.gif" width="100%"  alt="Zuri"/>
+            <img src="./images/zurichat.gif" width="100%"  alt="Zuri"/>
         </a>
         <br />
         <p align="center">
@@ -107,7 +107,7 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
         <h3 align="center">Developer Finder</h3>
         <br />
         <a target="_blank" href="https://github.com/Webmekanic/Developer-finder">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+          <img src="./images/devfinder.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
          <p align="center">   
@@ -128,10 +128,3 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
     <a href="https://twitter.com/webmekanic_"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>   
     <a href="https://www.codewars.com/users/Webmekanic"><img src="https://img.shields.io/badge/Codewars-164C78?style=plastic&logo=Codewars&logoColor=B1361E" height=25></a>
   </p>
-
-
-    
-    
-
-
-
