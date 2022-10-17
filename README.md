@@ -54,7 +54,7 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
       <h3 align="center">Surevoter</h3>
         <br />
         <a target="_blank" href="http://www.surevoter.com">
-            <img src="images/gif1.gif" width="100%" alt="Sure Voter"/>
+            <img src="images.gif" width="100%" alt="Sure Voter"/>
         </a>
         <br />
         <p align="center">
@@ -90,7 +90,7 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
       <h3 align="center">E-commerce Product Page</h3>
       <br />
         <a target="_blank" href="https://webmekanic.github.io/Ecommerce-Product-Page/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+           <img src="./images/productPage.gif" width="100%" alt="Product Page"/>
         </a>
       <br />
    <p align="center">   
