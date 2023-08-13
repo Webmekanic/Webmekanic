@@ -4,7 +4,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=164C78&vCenter=true&center=true&width=460&lines=I'm+David+Aniebo;Software+Engineer">
 <br>
-Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay awhile and browse through my latest projects if you'd like to see what I've been working on. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development! 
+Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay awhile and browse through my latest projects if you'd like to see what I've been working on. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything software development! 
 </p>
 
 <!-- SOCIALS -->
